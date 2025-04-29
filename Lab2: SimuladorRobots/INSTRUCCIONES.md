@@ -1,1 +1,1 @@
-
+En este programa primero se debe ingresar el número de participantes con un máximo de 10 jugadores, despues se debe ingresar el nombre, cantidad de puntos de vida y cantidad de ataque de cada jugador (en ese orden), finalmente, cada participante debe ingresar el nombre del robot que desea atacar y esto seguira hasta que haya un ganador. 
